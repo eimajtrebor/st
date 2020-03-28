@@ -1,3 +1,6 @@
+/* Jim McCormick */
+/* https://github.com/eimajtrebor/st */
+
 /* See LICENSE file for copyright and license details. */
 
 /*
